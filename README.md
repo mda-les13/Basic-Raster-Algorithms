@@ -23,7 +23,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_пользователь/PKG_Lab4.git
+   git clone https://github.com/mda-les13/Basic-Raster-Algorithms.git
    ```
 2. Откройте проект в Visual Studio.
 3. Соберите проект и запустите его.
